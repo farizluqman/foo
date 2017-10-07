@@ -1,2 +1,2 @@
 # foo
-to master
+compatible for master
