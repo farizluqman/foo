@@ -1,5 +1,4 @@
 # foo
-to master
-
+compatible for master
 
 a new nightly feature
